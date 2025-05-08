@@ -11,9 +11,9 @@ Somos un equipo apasionado por la innovación y las telecomunicaciones, particip
 ![Textoalternativo](Imagenes/imagen_1.jpg)
 NovaSpark está formado por un grupo de entusiastas de la tecnología, comprometidos con el avance de las telecomunicaciones. Nuestro enfoque combina creatividad, ingeniería y trabajo en equipo para enfrentar los desafíos de la competencia.
 
-## 🚀 Proyecto Destacado  
+## 🚀 Proyecto 
 En esta edición de las Olimpiadas, estamos trabajando en un **Solar Tracker**, una solución innovadora que sigue el ODS7 que **garantiza el acceso universal a una energía asequible, segura, sostenible y moderna, para mejorar las condiciones de vida de millones de personas.**.
-
+![NovaSpark Logo](Imagenes/imagen_3.jpg)
 ## 🛠️ Tecnologías  
 Estamos utilizando una variedad de tecnologías y herramientas clave para el desarrollo de nuestro proyecto, incluyendo:
 
