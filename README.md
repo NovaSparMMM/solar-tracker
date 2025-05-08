@@ -1,3 +1,4 @@
+![Textoalternativo](Imagenes/logoteleco.png)
 # 🚀 NovaSpark – Olimpiadas de Telecomunicaciones 2025
 
 ¡Bienvenido al repositorio oficial del equipo **NovaSpark**! 🌟  
