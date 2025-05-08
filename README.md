@@ -7,7 +7,7 @@
 Somos un equipo apasionado por la innovación y las telecomunicaciones, participando en las **Olimpiadas de Telecomunicaciones 2025**. Nuestro objetivo es desarrollar soluciones tecnológicas que impulsen la conectividad y la eficiencia en el mundo moderno.
 
 ## 📌 Sobre Nosotros  
-![NovaSpark Logo](imagenes/imagen1.jpg)
+![Textoalternativo](Imagenes/imagen_1.jpg)
 NovaSpark está formado por un grupo de entusiastas de la tecnología, comprometidos con el avance de las telecomunicaciones. Nuestro enfoque combina creatividad, ingeniería y trabajo en equipo para enfrentar los desafíos de la competencia.
 
 ## 🚀 Proyecto Destacado  
